@@ -59,7 +59,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Information about current and former lab members
+Learn about our current and former lab members
 
 {%
   include link.html

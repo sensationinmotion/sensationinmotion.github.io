@@ -15,8 +15,7 @@ Welcome to the Sensation in Motion Lab at San Diego State University! We study (
 {% include section.html %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Movement and sensation are inextricably linked. While we often say humans are visual creatures, the sensory systems that allow us to feel how our body is configured (proprioception) and what it is in contact with (touch) underly our ability to effectively interact with the physical world. A driving tenant of our research is that the motor system has privileged access to these kinds of sensations, so fully understanding them requires interrogating the motor system itself. 
 
 {%
   include link.html

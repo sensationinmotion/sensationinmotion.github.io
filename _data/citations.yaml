@@ -96,6 +96,7 @@
   - Fingers
   - Anesthesia
   - Cutaneous
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/vjmb20.v052.i01
 - id: doi:10.1371/journal.pone.0226596
   title: Force-stabilizing synergies can be retained by coordinating sensory-blocked
     and sensory-intact digits
@@ -114,3 +115,31 @@
   - Cutaneous
   - Coordination
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
+- id: doi:10.1007/s00221-018-5231-5
+  title: Multi-finger synergies and the muscular apparatus of the hand
+  authors:
+  - Cristian Cuadra
+  - Angelo Bartsch
+  - Paula Tiemann
+  - Sasha Reschechtko
+  - Mark L. Latash
+  publisher: Experimental Brain Research
+  date: '2018-03-12'
+  link: https://doi.org/gdjt86
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-018-5231-5/MediaObjects/221_2018_5231_Fig1_HTML.gif
+  tags:
+  - Fingers
+  - Variability
+  - Coordination
+- id: doi:10.1523/JNEUROSCI.3224-17.2018
+  title: Movement Variability Is Processed Bilaterally by Inferior Parietal Lobule
+  authors:
+  - David Marc Anton Mehler
+  - Sasha Reschechtko
+  publisher: The Journal of Neuroscience
+  date: '2018-03-07'
+  link: https://doi.org/gp7gkd
+  image: https://www.jneurosci.org/sites/default/files/styles/medium/public/highwire/jneuro/38/10.cover-source.jpg
+  tags:
+  - Review
+  - Variability

@@ -115,7 +115,8 @@
   - Cutaneous
   - Coordination
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
-- id: doi:10.1007/s00221-018-5231-5
+- &id001
+  id: doi:10.1007/s00221-018-5231-5
   title: Multi-finger synergies and the muscular apparatus of the hand
   authors:
   - Cristian Cuadra
@@ -143,3 +144,4 @@
   tags:
   - Review
   - Variability
+- *id001

@@ -57,7 +57,7 @@ San Diego CA 92182
 {% capture col2 %}
 {%
   include figure.html
-  image="images/HepnerHall_JimBrady_M5A9350.jpg"
+  image="images/hepner.jpg"
   caption="Hepner Hall at SDSU (photo by Jim Brady)"
 %}
 {% endcapture %}

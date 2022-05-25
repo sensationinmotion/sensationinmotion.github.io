@@ -115,6 +115,20 @@
   - Cutaneous
   - Coordination
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
+- id: doi:10.1152/jn.00045.2018
+  title: Stability of hand force production. II. Ascending and descending synergies
+  authors:
+  - Sasha Reschechtko
+  - Mark L. Latash
+  publisher: Journal of Neurophysiology
+  date: '2018-09-01'
+  link: https://doi.org/gd9swm
+  image: https://journals.physiology.org/cms/10.1152/jn.00045.2018/asset/images/medium/z9k0081847070001.gif
+  tags:
+  - Fingers
+  - Variability
+  - Perturbation
+  - Coordination
 - id: doi:10.1007/s00221-018-5231-5
   title: Multi-finger synergies and the muscular apparatus of the hand
   authors:

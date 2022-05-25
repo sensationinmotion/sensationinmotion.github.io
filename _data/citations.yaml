@@ -230,3 +230,79 @@
   - Fingers
   - Tangential Force
   - Variability
+- id: doi:10.1016/j.clinbiomech.2017.06.004
+  title: "The recovery response to a novel unannounced laboratory-induced slip: The\
+    \ \u201Cfirst trial effect\u201D in older adults"
+  authors:
+  - Xuan Liu
+  - Sasha Reschechtko
+  - Shuaijie Wang
+  - Yi-Chung (Clive) Pai
+  publisher: Clinical Biomechanics
+  date: '2017-10-01'
+  link: https://doi.org/gb4rvj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0268003317301316-gr1.jpg
+  tags:
+  - Fall Prevention
+  - Slipping
+  - Lower Limb
+- id: doi:10.1007/s00221-016-4632-6
+  title: 'Interpersonal synergies: static prehension tasks performed by two actors'
+  authors:
+  - Stanislaw Solnik
+  - Sasha Reschechtko
+  - Yen-Hsun Wu
+  - Vladimir M. Zatsiorsky
+  - Mark L. Latash
+  publisher: Experimental Brain Research
+  date: '2016-03-28'
+  link: https://doi.org/f8tjjw
+  image: https://link.springer.com/article/10.1007/s00221-016-4632-6/figures/1
+  tags:
+  - Cooperation
+  - Variability
+  - Prehension
+- id: doi:10.1007/s00221-015-4364-z
+  title: Force-stabilizing synergies in motor tasks involving two actors
+  authors:
+  - Stanislaw Solnik
+  - Sasha Reschechtko
+  - Yen-Hsun Wu
+  - Vladimir M. Zatsiorsky
+  - Mark L. Latash
+  publisher: Experimental Brain Research
+  date: '2015-06-24'
+  link: https://doi.org/f7r86n
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-015-4364-z/MediaObjects/221_2015_4364_Fig1_HTML.gif
+  tags:
+  - Cooperation
+  - Variability
+  - Fingers
+- id: doi:10.1080/00222895.2014.996281
+  title: Task-Specific Stability of Multifinger Steady-State Action
+  authors:
+  - Sasha Reschechtko
+  - Vladimir M. Zatsiorsky
+  - Mark L. Latash
+  publisher: Journal of Motor Behavior
+  date: '2015-01-07'
+  link: https://doi.org/gp7g2t
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4710373/bin/nihms749294f2.jpg
+  tags:
+  - Fingers
+  - Variability
+  - Perturbation
+- id: doi:10.1152/jn.00395.2014
+  title: Stability of multifinger action in different state spaces
+  authors:
+  - Sasha Reschechtko
+  - Vladimir M. Zatsiorsky
+  - Mark L. Latash
+  publisher: Journal of Neurophysiology
+  date: '2014-12-15'
+  link: https://doi.org/f6s82w
+  image: https://journals.physiology.org/na101/home/literatum/publisher/physio/journals/content/jn/2014/jn.2014.112.issue-12/jn.2014.112.issue-12/20180103-01/jn.2014.112.issue-12.cover.gif
+  tags:
+  - Fingers
+  - Variability
+  - Perturbation

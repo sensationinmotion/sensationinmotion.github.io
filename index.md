@@ -35,8 +35,7 @@ Movement and sensation are inextricably linked. While we often say humans are vi
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If you want to get a better idea about what we do and/or are interested in collaboration, take a look at what we can do here. Note that the majority of equipment and space in ENS is shared.
 
 {%
   include link.html

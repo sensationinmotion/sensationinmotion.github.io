@@ -22,16 +22,15 @@
   #  - type: website
   #    link: http://manubot.org/
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi:10.1016/j.cophys.2021.02.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468867321000328-gr1.jpg
+  tags:
+    - Cutaneous
+    - Reflexes
+    - Review
+    
+- id: doi:10.1111/ejn.14479
+  image: https://onlinelibrary.wiley.com/cms/asset/ec7ff9c3-c024-434b-9f2d-d0375463df42/ejn14479-fig-0001-m.png
+  tags:
+    - Reflexes
+    - Perturbation

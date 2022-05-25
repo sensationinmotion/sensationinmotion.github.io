@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-This is a curated list of publications. Contact us for PDFs of any papers you need!
+This is a curated list of publications. Contact us for copies of any papers you need!
 
 {% include section.html %}
 

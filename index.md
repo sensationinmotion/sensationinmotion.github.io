@@ -21,7 +21,6 @@ Movement and sensation are inextricably linked. While we often say humans are vi
   include link.html
   link="research"
   text="Publications"
-  icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}

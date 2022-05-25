@@ -50,8 +50,8 @@ San Diego CA 92182
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/ens_building.jpg"
+  caption="ENS Building"
 %}
 {% endcapture %}
 {% capture col2 %}

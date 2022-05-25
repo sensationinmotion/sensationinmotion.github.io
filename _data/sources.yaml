@@ -115,3 +115,39 @@
     - Fingers
     - Tangential Force
     - Variability
+
+- id: doi:10.1016/j.clinbiomech.2017.06.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0268003317301316-gr1.jpg
+  tags:
+    - Fall Prevention
+    - Slipping
+    - Lower Limb
+
+- id: doi:10.1007/s00221-016-4632-6
+  image: https://link.springer.com/article/10.1007/s00221-016-4632-6/figures/1
+  tags:
+    - Cooperation
+    - Variability
+    - Prehension
+ 
+- id: doi:10.1007/s00221-015-4364-z
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-015-4364-z/MediaObjects/221_2015_4364_Fig1_HTML.gif
+  tags:
+    - Cooperation
+    - Variability
+    - Fingers
+    
+- id: doi:10.1080/00222895.2014.996281
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4710373/bin/nihms749294f2.jpg
+  tags:
+    - Fingers
+    - Variability
+    - Perturbation
+    
+- id: doi:10.1152/jn.00395.2014
+  image: https://journals.physiology.org/na101/home/literatum/publisher/physio/journals/content/jn/2014/jn.2014.112.issue-12/jn.2014.112.issue-12/20180103-01/jn.2014.112.issue-12.cover.gif
+  tags:
+    - Fingers
+    - Variability
+    - Perturbation
+  

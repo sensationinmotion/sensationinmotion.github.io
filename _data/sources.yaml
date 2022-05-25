@@ -53,7 +53,6 @@
     - Cutaneous
     
  - id: doi:10.1371/journal.pone.0226596
-   #image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
    tags:
     - Fingers
     - Anesthesia
@@ -77,7 +76,6 @@
     - Coordination
 
  - id: doi:10.1523/JNEUROSCI.3224-17.2018
-   #image: https://journals.physiology.org/cms/10.1152/jn.00045.2018/asset/images/medium/z9k0081847070001.gif
    tags:
     - Review
 

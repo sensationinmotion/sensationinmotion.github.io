@@ -115,8 +115,7 @@
   - Cutaneous
   - Coordination
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
-- &id001
-  id: doi:10.1007/s00221-018-5231-5
+- id: doi:10.1007/s00221-018-5231-5
   title: Multi-finger synergies and the muscular apparatus of the hand
   authors:
   - Cristian Cuadra
@@ -144,7 +143,21 @@
   tags:
   - Review
   - Variability
-- *id001
+- id: doi:10.1007/s00221-018-5179-5
+  title: Performance drifts in two-finger cyclical force production tasks performed
+    by one and two actors
+  authors:
+  - Fariba Hasanbarani
+  - Sasha Reschechtko
+  - Mark L. Latash
+  publisher: Experimental Brain Research
+  date: '2018-01-15'
+  link: https://doi.org/gc5dx8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-018-5179-5/MediaObjects/221_2018_5179_Fig7_HTML.gif
+  tags:
+  - Cooperation
+  - Fingers
+  - Cyclical
 - id: doi:10.1152/jn.00485.2017
   title: Stability of hand force production. I. Hand level control variables and multifinger
     synergies

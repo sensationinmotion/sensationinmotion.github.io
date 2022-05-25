@@ -85,7 +85,7 @@
 - id: doi:10.1007/s00221-018-5179-5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-018-5179-5/MediaObjects/221_2018_5179_Fig7_HTML.gif
   tags:
-    - Cooperation
+    - Two-Person Cooperation
     - Fingers
     - Cyclical
     
@@ -126,14 +126,14 @@
 - id: doi:10.1007/s00221-016-4632-6
   image: https://link.springer.com/article/10.1007/s00221-016-4632-6/figures/1
   tags:
-    - Cooperation
+    - Two-Person Cooperation
     - Variability
     - Prehension
  
 - id: doi:10.1007/s00221-015-4364-z
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-015-4364-z/MediaObjects/221_2015_4364_Fig1_HTML.gif
   tags:
-    - Cooperation
+    - Two-Person Cooperation
     - Variability
     - Fingers
     

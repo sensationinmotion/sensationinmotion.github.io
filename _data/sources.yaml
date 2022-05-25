@@ -13,6 +13,8 @@
   tags:
     - Cutaneous
     - Reflexes
+    - Fingers
+    - Upper Limb
   #repo: greenelab/meta-review
   #extra-links:
   #  - type: manubot
@@ -34,3 +36,27 @@
   tags:
     - Reflexes
     - Perturbation
+    - Upper Limb
+    
+- id: doi:10.1007/s00221-019-05709-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-019-05709-6/MediaObjects/221_2019_5709_Fig1_HTML.png?as=webp
+  tags:
+    - Parkinson's Disease
+    - Fingers
+    - Coordination
+    - Perturbation
+    
+- id: doi:10.1080/00222895.2019.1580670
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-019-05709-6/MediaObjects/221_2019_5709_Fig1_HTML.png?as=webp
+  tags:
+    - Fingers
+    - Anesthesia
+    - Cutaneous
+    
+ - id: doi:10.1371/journal.pone.0226596
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
+  tags:
+    - Fingers
+    - Anesthesia
+    - Cutaneous
+    - Coordination

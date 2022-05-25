@@ -1,4 +1,4 @@
-- id: doi.org/10.1016/j.cub.2020.07.092
+- id: doi:10.1016/j.cub.2020.07.092
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220311519-gr2.jpg
   #date: 2020-6-2
   #extra-links:
@@ -6,17 +6,21 @@
   #    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - Review
+    - Reflexes
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: doi:10.1152/jn.00232.2020
+  image: https://journals.physiology.org/cms/10.1152/jn.00232.2020/asset/images/medium/z9k0072055220001.gif
+  tags:
+    - Cutaneous
+    - Reflexes
+  #repo: greenelab/meta-review
+  #extra-links:
+  #  - type: manubot
+  #    link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    link: https://github.com/greenelab/meta-review
+  #  - type: website
+  #    link: http://manubot.org/
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp

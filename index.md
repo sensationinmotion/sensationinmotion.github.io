@@ -50,8 +50,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="Instrumentation"
-  title="Check out the Lab"
+  link="tools"
+  title="Instrumentation"
   flip=true
   text=text
 %}

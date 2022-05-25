@@ -2,7 +2,8 @@
 
 # site properties and page defaults
 title: Sensation in Motion Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+subtitle: At San Diego State University
+description: Sensation in Motion Lab at San Diego State University. We study sensory structures and motor functions underlying everyday hand use. 
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg

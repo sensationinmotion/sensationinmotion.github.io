@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) (ENS) in the [College of Health and Human Services](https://chhs.sdsu.edu/) (CHHS) at San Diego State University. We are located in the ENS Building with facilities in the ENS Annex.
+Our lab is part of the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) (ENS) in the [College of Health and Human Services](https://chhs.sdsu.edu/) (CHHS) at [San Diego State University](https://sdsu.edu). We are located in the ENS Building with facilities in the ENS Annex.
 
 {%
   include link.html

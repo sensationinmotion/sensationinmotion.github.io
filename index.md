@@ -44,7 +44,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include link.html
   link="tools"
   text="Browse our tools"
-  icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
@@ -60,13 +59,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Information about current and former lab members
 
 {%
   include link.html
   link="team"
   text="Meet our team"
-  icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
@@ -76,9 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="People"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are affiliated with the [School of Exercise & Nutritional Sciences] (https://ens.sdsu.edu/) in the [College of Health and Human Services] (https://chhs.sdsu.edu/).

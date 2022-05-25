@@ -62,6 +62,9 @@
   - Reflexes
   - Perturbation
   - Upper Limb
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/578450
 - id: doi:10.1007/s00221-019-05709-6
   title: "Synergic control of action in levodopa-na\xEFve Parkinson\u2019s disease\
     \ patients: I. Multi-finger interaction and coordination"
@@ -99,6 +102,7 @@
   - Fingers
   - Anesthesia
   - Cutaneous
+  - Carpal Tunnel
   image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/vjmb20.v052.i01
 - id: doi:10.1371/journal.pone.0226596
   title: Force-stabilizing synergies can be retained by coordinating sensory-blocked
@@ -117,6 +121,7 @@
   - Anesthesia
   - Cutaneous
   - Coordination
+  - Carpal Tunnel
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0226596.g001
 - id: doi:10.1152/jn.00045.2018
   title: Stability of hand force production. II. Ascending and descending synergies

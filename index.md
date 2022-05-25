@@ -2,27 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Body, meet world
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the Sensation in Motion Lab at San Diego State University! We study (1) how the physical organization of sensory systems in the skin and muscle affect human movement, and (2) how to use movement analysis to test sensory systems for applications including diagnsosis of sensory pathologies and measuring recovery.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -31,8 +14,6 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
-
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -40,7 +21,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Publications"
   icon="fas fa-arrow-right"
   flip=true
 %}

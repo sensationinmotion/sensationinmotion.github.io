@@ -74,7 +74,25 @@
   date: '2019-12-14'
   link: https://doi.org/gp7gh8
   tags:
-  - Parkinson's Disease
+  - Parkinsons Disease
   - Fingers
   - Coordination
   - Perturbation
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-019-05709-6/MediaObjects/221_2019_5709_Fig1_HTML.png
+- id: doi:10.1080/00222895.2019.1580670
+  title: Effect of Sensory Deprivation on Maximal Force Abilities from Local to Non-local
+    Digits
+  authors:
+  - Sasha Reschechtko
+  - Hu Wang
+  - Kerlin Alendry
+  - Cynthia Benson
+  - Barry Hahn
+  - Wei Zhang
+  publisher: Journal of Motor Behavior
+  date: '2019-03-08'
+  link: https://doi.org/gp7gjh
+  tags:
+  - Fingers
+  - Anesthesia
+  - Cutaneous

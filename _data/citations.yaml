@@ -1,42 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1016/j.cub.2020.07.092
+  title: Stretch reflexes
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Sasha Reschechtko
+  - J. Andrew Pruszynski
+  publisher: Current Biology
+  date: '2020-09-01'
+  link: https://doi.org/gp7ggv
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220311519-gr2.jpg
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Review
+  - Reflexes
+- id: doi:10.1152/jn.00232.2020
+  title: Voluntary modification of rapid tactile-motor responses during reaching differs
+    from its visuomotor counterpart
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  - Sasha Reschechtko
+  - J. Andrew Pruszynski
+  publisher: Journal of Neurophysiology
+  date: '2020-07-01'
+  link: https://doi.org/gp7ggw
+  image: https://journals.physiology.org/cms/10.1152/jn.00232.2020/asset/images/medium/z9k0072055220001.gif
+  tags:
+  - Cutaneous
+  - Reflexes
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:

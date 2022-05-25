@@ -215,3 +215,18 @@
   tags:
   - Fingers
   - Cyclical
+- id: doi:10.1007/s00221-016-4768-4
+  title: 'The synergic control of multi-finger force production: stability of explicit
+    and implicit task components'
+  authors:
+  - Sasha Reschechtko
+  - Vladimir M. Zatsiorsky
+  - Mark L. Latash
+  publisher: Experimental Brain Research
+  date: '2016-09-06'
+  link: https://doi.org/f9mnxx
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00221-016-4768-4/MediaObjects/221_2016_4768_Fig1_HTML.gif
+  tags:
+  - Fingers
+  - Tangential Force
+  - Variability

@@ -50,15 +50,15 @@ San Diego CA 92182
 {% capture col1 %}
 {%
   include figure.html
-  image="images/ens_building.jpg"
-  caption="ENS Building"
+  image="images/ens_cropped.jpg"
+  caption="ENS Building (when not surrounded by construction)"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/hepner.jpg"
+  caption="Iconic Hepner Hall at SDSU"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}

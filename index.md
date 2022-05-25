@@ -30,7 +30,7 @@ Movement and sensation are inextricably linked. While we often say humans are vi
   include feature.html
   image="images/bump_2.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
@@ -41,7 +41,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Check out the Lab"
   flip=true
 %}
 {:.center}
@@ -50,8 +50,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="Instrumentation"
+  title="Check out the Lab"
   flip=true
   text=text
 %}

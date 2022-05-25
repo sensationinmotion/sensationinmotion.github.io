@@ -78,4 +78,4 @@ Information about current and former lab members
   text=text
 %}
 
-We are affiliated with the [School of Exercise & Nutritional Sciences] (https://ens.sdsu.edu/) in the [College of Health and Human Services] (https://chhs.sdsu.edu/).
+We are affiliated with the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) in the [College of Health and Human Services](https://chhs.sdsu.edu/).

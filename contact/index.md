@@ -7,25 +7,24 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) (ENS) in the [College of Health and Human Services](https://chhs.sdsu.edu/) (CHHS) at San Diego State University. We are located in the ENS Building with facilities in the ENS Annex.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="sreschechtko@sdsu.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="sreschechtko@sdsu.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(619) 594-2724"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-619-594-2724"
   style="button"
 %}
 {%
@@ -34,7 +33,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://goo.gl/maps/2yNcWLqdFA26vi9z5"
   style="button"
 %}
 {:.center}
@@ -43,9 +42,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+ENS Building Room 304  
+5500 Campanile Dr  
+San Diego CA 92182
 {:.center}
 
 {% capture col1 %}

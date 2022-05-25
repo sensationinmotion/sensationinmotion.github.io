@@ -11,12 +11,9 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: sreschechtko@sdsu.edu
+  google-scholar: https://scholar.google.com/citations?user=oxyl3i8AAAAJ&hl=en
+  # github: your-lab
 
 ### advanced settings
 

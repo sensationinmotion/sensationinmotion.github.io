@@ -75,13 +75,12 @@ Learn about our current and former lab members
   text=text
 %}
 
+We are affiliated with the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) in the [College of Health and Human Services](https://chhs.sdsu.edu/).
+
 {%
   include figure.html
   image="images/sdsu_primary_logo_rgb_horizontal_full_color.png"
-  caption="San Diego State University Logo"
   link="https://sdsu.edu"
   width="200px"
 %}
 {:.center}
-
-We are affiliated with the [School of Exercise & Nutritional Sciences](https://ens.sdsu.edu/) in the [College of Health and Human Services](https://chhs.sdsu.edu/).

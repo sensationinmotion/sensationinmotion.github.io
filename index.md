@@ -79,7 +79,7 @@ Learn about our current and former lab members
   include figure.html
   image="images/sdsu_primary_logo_rgb_horizontal_full_color.png"
   caption="San Diego State University Logo"
-  link="http://sdsu.edu"
+  link="https://sdsu.edu"
   width="200px"
 %}
 {:.center}

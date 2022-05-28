@@ -15,7 +15,7 @@ Welcome to the Sensation in Motion Lab at San Diego State University! We study (
 {% include section.html %}
 
 {% capture text %}
-Movement and sensation are inextricably linked. While we often say humans are visual creatures, the sensory systems that allow us to feel how our body is configured (proprioception) and what it is in contact with (touch) underlie our ability to effectively interact with the physical world. The motor system has privileged access to these sensations, so understanding them requires interrogating the motor system itself. 
+Movement and sensation are inextricably linked. The sensory systems that allow us to feel how our body is configured (proprioception) and what it is in contact with (touch) underlie our ability to effectively interact with the physical world. The motor system has privileged access to these sensations, so we try to understand them by interrogating the motor system itself. 
 
 {%
   include link.html

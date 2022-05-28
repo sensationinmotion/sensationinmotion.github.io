@@ -81,6 +81,6 @@ We are affiliated with the [School of Exercise & Nutritional Sciences](https://e
   include figure.html
   image="images/sdsu_primary_logo_rgb_horizontal_full_color.png"
   link="https://sdsu.edu"
-  width="200px"
+  width="300px"
 %}
 {:.center}

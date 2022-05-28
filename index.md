@@ -35,7 +35,7 @@ Movement and sensation are inextricably linked. While we often say humans are vi
 %}
 
 {% capture text %}
-If you want to get a better idea about what we do and/or are interested in collaboration, take a look at what we can do here. Note that the majority of equipment and space in ENS is shared.
+If you want to get a better idea about what we do and/or are interested in collaboration, take a look at what we can do here. The majority of equipment and space is shared.
 
 {%
   include link.html

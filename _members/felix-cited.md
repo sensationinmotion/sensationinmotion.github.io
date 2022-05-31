@@ -2,7 +2,7 @@
 name: Felix Cited
 image: images/member.jpg
 description: Treat Researcher
-role: phd
+role: undergrad
 group: alum
 aliases:
   - F. Cited

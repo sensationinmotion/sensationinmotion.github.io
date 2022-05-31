@@ -1,8 +1,8 @@
 ---
 name: Sasha Reschechtko
 image: images/beach.jpg
-description: pi
-role: Assistant Professor
+description: Assistant Professor
+role: pi
 links:
   orcid: 0000-0003-1025-4533
   email: sreschechtko@sdsu.edu

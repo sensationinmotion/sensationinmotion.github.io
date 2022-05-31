@@ -1,11 +1,8 @@
 ---
 name: Sasha Reschechtko
 image: images/beach.jpg
-description: PI
+description: pi
 role: Assistant Professor
-/ aliases:
-/  - A. Chovie
-/  - A Chovie
 links:
   email: sreschechtko@sdsu.edu
   github: sreschechtko

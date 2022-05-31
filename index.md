@@ -7,11 +7,7 @@ title: Home
 Welcome to the Sensation in Motion Lab at San Diego State University! We study (1) how the physical organization of sensory systems in the skin and muscle affect human movement, and (2) how to use movement analysis to test sensory systems to diagnsose sensory pathologies and measure recovery.
 
 {:.center}
-//
- {% include section.html full=true %}
 
- {% include banner.html image="images/banner.jpg" %}
-//
 {% include section.html %}
 
 {% capture text %}

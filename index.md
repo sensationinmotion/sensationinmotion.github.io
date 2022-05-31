@@ -8,6 +8,11 @@ Welcome to the Sensation in Motion Lab at San Diego State University! We study (
 
 {:.center}
 
+{% comment %}
+{% include section.html full=true %}
+{% include banner.html image="images/banner.jpg" %}
+{% endcomment %}
+
 {% include section.html %}
 
 {% capture text %}

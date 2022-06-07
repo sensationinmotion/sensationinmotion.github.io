@@ -42,7 +42,7 @@ If you want to get a better idea about what we do and/or are interested in colla
   include link.html
   link="tools"
   text="Check out the Lab"
-  flip=true
+  flip=false
 %}
 {:.center}
 {% endcapture %}
@@ -52,7 +52,7 @@ If you want to get a better idea about what we do and/or are interested in colla
   image="images/equipment.jpg"
   link="tools"
   title="Instrumentation"
-  flip=true
+  flip=false
   text=text
 %}
 
@@ -63,7 +63,7 @@ Learn about our current and former lab members
   include link.html
   link="team"
   text="Meet our team"
-  flip=true
+  flip=false
 %}
 {:.center}
 {% endcapture %}

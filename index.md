@@ -70,7 +70,7 @@ Learn about our current and former lab members
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/brainmuseum.jpg"
   link="team"
   title="People"
   text=text

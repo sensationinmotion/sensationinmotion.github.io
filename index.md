@@ -49,7 +49,7 @@ If you want to get a better idea about what we do and/or are interested in colla
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/equipment.jpg"
   link="tools"
   title="Instrumentation"
   flip=true

@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Participate
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Opportunities for research participants
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog

@@ -57,7 +57,8 @@ If you want to get a better idea about what we do and/or are interested in colla
 %}
 
 {% capture text %}
-Learn about our current and former lab members {:.center}
+{:.center}
+Learn about our current and former lab members 
 
 {%
   include link.html

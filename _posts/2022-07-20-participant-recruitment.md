@@ -2,7 +2,7 @@
 title: Now recruiting research participants!
 tags:
   - research participation
-author: Sasha Reschechtko
+author: S. Reschechtko
 member: sasha-reschechtko
 ---
 

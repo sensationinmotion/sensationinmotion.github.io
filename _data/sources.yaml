@@ -149,6 +149,10 @@
   
 - id: 10.1101/2022.07.18.500469
   tags:
+    - Preprint
     - Balance
     - Estrogen
     - Menstrual Cycle
+  extra-links:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.07.18.500469v1

@@ -5,7 +5,7 @@ nav:
   tooltip: Opportunities for research participants
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>Participate
 
 {% include section.html %}
 

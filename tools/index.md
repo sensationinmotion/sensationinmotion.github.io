@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The lab is instrumented to record kinetics and kinematics of upper limb and finger movements. To that end, we have a number of 6-axis force/torque sensors from ATI Industrial Automation (Nano-17 and Axia 80) for recording finger and hand forces. We primarily use 3D printing to build custom fixturing to mount sensors in the lab environment and mount stimuli on the sensors. We also have a high speed rotary stage from Griffin Motion for stimulus presentation and an Optitrack V120:Trio tracking bar for simple turnkey tracking of upper limb kinematics.
+
+Shared resources co-located in lower annex include a 16-channel wireless EMG system (Delsys Trigno), two fixed forceplates (AMTI), and a reconfigurable 9-camera motion capture volume (Qualisys).
 
 {% comment %}
 

@@ -28,4 +28,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
 
-{% end comment %}
+{% endcomment %}

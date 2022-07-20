@@ -1,18 +1,10 @@
 ---
-name: Felix Cited
+name: Wylianne Pangan
 image: images/member.jpg
-description: Treat Researcher
+description: Research Assistant
 role: undergrad
-group: alum
-aliases:
-  - F. Cited
-  - F Cited
-links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+group: 
+
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Liane is an undergraduate student in Exercise and Nutritional Sciences (Class of 2023) and works as a research assistant in the lab. She is working on a project investigating how people feel very small features with their fingers.

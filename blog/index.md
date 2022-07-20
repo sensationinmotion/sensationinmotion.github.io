@@ -11,7 +11,9 @@ nav:
 
 {% include search-info.html %}
 
+{% comment %}
 {% include list.html data="posts"%}
+{% endcomment %}
 
 {% include section.html %}
 

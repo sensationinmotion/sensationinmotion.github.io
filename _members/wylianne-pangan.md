@@ -3,7 +3,6 @@ name: Wylianne Pangan
 image: images/member.jpg
 description: Research Assistant
 role: undergrad
-group: 
 
 ---
 

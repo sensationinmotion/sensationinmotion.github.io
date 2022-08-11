@@ -1,8 +1,8 @@
 ---
-name: Wylianne Pangan
+name: Liane Pangan
 image: images/member.jpg
 description: Research Assistant
-role: undergrad
+role: phd
 links:
 
   email: wpangan@sdsu.edu

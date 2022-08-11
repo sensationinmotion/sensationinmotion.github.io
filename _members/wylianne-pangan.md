@@ -2,7 +2,7 @@
 name: Liane Pangan
 image: images/member.jpg
 description: Research Assistant
-role: phd
+role: undergrad
 links:
 
   email: wpangan@sdsu.edu

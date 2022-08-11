@@ -11,7 +11,7 @@ phd:
   text: PhD Student
 
 undergrad:
-  icon: fas fa-graduation-cap
+  icon: fas fa-user-graduate
   text: Undergraduate Student
 
 programmer:

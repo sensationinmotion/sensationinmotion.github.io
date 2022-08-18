@@ -1,7 +1,7 @@
 ---
 name: Liane Pangan
 image: images/member.jpg
-role: undergrad
+role: phd
 links:
   email: wpangan@sdsu.edu
 aliases:

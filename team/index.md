@@ -60,9 +60,9 @@ If you are an undergraduate student at SDSU interesting in working in the lab, p
 
 If you are a current masters student at in Exercise & Nutritional sciences at SDSU and you are interested in working in the lab, please get in touch -- ideally as early as possible during your studies. Because the masters program is only two years with limited time for research electives, it's helpful to plan as quickly as possible!
 
-#### Prospective Masters students
+#### Prospective M.S. students
 
-If you are interested in pursuing a M.S. degree and working in the lab, we may be able to accept you through the M.S. program in Exercise & Nutritional Sciences, which offers M.S. degrees in Exercise Physiology, Nutrition, or a concurrent option through which students receive both Nutrition and Exercise Physiology M.S. degrees simultaneously. Please contact Dr. Reschechtko prior to submitting your application if working in the lab is your primary reason for applying to the program.
+If you are interested in pursuing a M.S. degree and working in the lab, we may be able to accept you through the [M.S. program in Exercise & Nutritional Sciences](https://ens.sdsu.edu/academic-programs/masters/), which offers M.S. degrees in Exercise Physiology, Nutrition, or a concurrent option through which students receive both Nutrition and Exercise Physiology M.S. degrees simultaneously. Please contact Dr. Reschechtko prior to submitting your application if working in the lab is your primary reason for applying to the program.
 
 #### Ph.D. Students
 

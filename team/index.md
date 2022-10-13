@@ -57,7 +57,7 @@ If you are an undergraduate student at SDSU interested in working in the lab, pl
 
 #### Currently enrolled Masters students
 
-If you are a current masters student at in Exercise & Nutritional sciences at SDSU and you are interested in working in the lab, please get in touch -- ideally as early as possible during your studies. Because the masters program is only two years with limited time for research electives, it's helpful to plan as quickly as possible!
+If you are a current masters student at in Exercise & Nutritional sciences at SDSU and you are interested in working in the lab, please get in touch -- ideally as early as possible during your studies. Because the M.S. program has limited time for research electives, it's helpful to plan as soon as possible!
 
 #### Prospective M.S. students
 

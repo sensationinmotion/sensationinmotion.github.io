@@ -34,7 +34,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% comment %}
-{:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 

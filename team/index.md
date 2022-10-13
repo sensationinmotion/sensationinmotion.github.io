@@ -68,9 +68,9 @@ If you are interested in pursuing a M.S. degree and working in the lab, we may b
 
 At present, we are unable to support Ph.D. students. However, if you are a current Ph.D. at SDSU or another institution and interested the labs work, feel free to get in touch!
 
-#### Postdoctoral Associates
+#### Postdoctoral Associates and Visiting Scholars
 
-We currently do not have funding to support Postdoctoral fellows, however, if you are interested in applying for a postdoctoral grant to pursue research in the lab (e.g. through NIH or NSF, or an international funding agency), please do get in touch to discuss this possibility.
+We currently do not have funding to support Postdoctoral fellows, however, if you are interested in applying for a postdoctoral grant to pursue research in the lab (e.g. through NIH or NSF, or an international funding agency), or have other means of external support, please do get in touch to discuss this possibility.
 
 {% include section.html %}
 

@@ -47,11 +47,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {:.center}
 #### Undergraduate students
 
-If you are an undergraduate student at SDSU interesting in working in the lab, please get in touch. Depending on time and funding availability, there may be volunteer and/or paid opportunities available. Please contact Dr. Reschechtko and be sure to briefly include the following information:
+If you are an undergraduate student at SDSU interested in working in the lab, please get in touch. Depending on time and funding availability, volunteer and/or paid opportunities may be available. Please contact Dr. Reschechtko and be sure to briefly include the following information:
 
 - Your expected year of graduation and major
-- Your personal interests and goals
-- How you believe working in the lab will help you acheive those goals
+- Your personal interests and goals, and how they relate to research in the lab
 - A resume or CV
 
 

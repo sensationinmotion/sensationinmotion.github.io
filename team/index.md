@@ -42,22 +42,40 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
+{% endcomment %}
 
-## Join
+## Opportunities to work in the lab
 
-#### Post Dogtoral Researcher
+#### Undergraduate students
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+If you are an undergraduate student at SDSU interesting in working in the lab, please get in touch. Depending on time and funding availability, there may be volunteer and/or paid opportunities available. Please contact Dr. Reschechtko and be sure to briefly include the following information:
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- Your expected year of graduation and major
+- Your personal interests and goals
+- How you believe working in the lab will help you acheive those goals
+- A resume or CV
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
+
+#### Currently enrolled Masters students
+
+If you are a current masters student at in Exercise & Nutritional sciences at SDSU and you are interested in working in the lab, please get in touch -- ideally as early as possible during your studies. Because the masters program is only two years with limited time for research electives, it's helpful to plan as quickly as possible!
+
+#### Prospective Masters students
+
+If you are interested in pursuing a M.S. degree and working in the lab, we may be able to accept you through the M.S. program in Exercise & Nutritional Sciences, which offers M.S. degrees in Exercise Physiology, Nutrition, or a concurrent option through which students receive both Nutrition and Exercise Physiology M.S. degrees simultaneously. Please contact Dr. Reschechtko prior to submitting your application if working in the lab is your primary reason for applying to the program.
+
+#### Ph.D. Students
+
+At present, we are unable to support Ph.D. students. However, if you are a current Ph.D. at SDSU or another institution and interested the labs work, feel free to get in touch!
+
+#### Postdoctoral Associates
+
+We currently do not have funding to support Postdoctoral fellows, however, if you are interested in applying for a postdoctoral grant to pursue research in the lab (e.g. through NIH or NSF, or an applicable international funding agency), please do get in touch to discuss this possibility.
 
 {% include section.html %}
 
+{% comment %}
 ## Funding
 
 Our work is made possible by funding from several organizations.

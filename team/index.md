@@ -44,7 +44,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% endcomment %}
 
 ## Opportunities to work in the lab
-
+{:.center}
 #### Undergraduate students
 
 If you are an undergraduate student at SDSU interesting in working in the lab, please get in touch. Depending on time and funding availability, there may be volunteer and/or paid opportunities available. Please contact Dr. Reschechtko and be sure to briefly include the following information:
@@ -54,7 +54,7 @@ If you are an undergraduate student at SDSU interesting in working in the lab, p
 - How you believe working in the lab will help you acheive those goals
 - A resume or CV
 
-{:.center}
+
 
 #### Currently enrolled Masters students
 
@@ -70,7 +70,7 @@ At present, we are unable to support Ph.D. students. However, if you are a curre
 
 #### Postdoctoral Associates
 
-We currently do not have funding to support Postdoctoral fellows, however, if you are interested in applying for a postdoctoral grant to pursue research in the lab (e.g. through NIH or NSF, or an applicable international funding agency), please do get in touch to discuss this possibility.
+We currently do not have funding to support Postdoctoral fellows, however, if you are interested in applying for a postdoctoral grant to pursue research in the lab (e.g. through NIH or NSF, or an international funding agency), please do get in touch to discuss this possibility.
 
 {% include section.html %}
 

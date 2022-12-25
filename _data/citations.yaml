@@ -314,8 +314,8 @@
   - Fingers
   - Variability
   - Perturbation
-- id: 10.1101/2022.07.18.500469
-  title: Standing balance is not affected by estrogen fluctuations during the menstrual
+- id: doi:10.1101/2022.07.18.500469
+  title: Postural Sway is not affected by estrogen fluctuations during the menstrual
     cycle
   authors:
   - Sasha Reschechtko
@@ -327,6 +327,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-07-19'
   link: https://doi.org/gqh75t
+  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
   tags:
   - Preprint
   - Balance
@@ -334,5 +335,4 @@
   - Menstrual Cycle
   extra-links:
   - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2022.07.18.500469v3
-  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
+    link: https://doi.org/10.1101/2022.07.18.500469

@@ -147,7 +147,7 @@
     - Variability
     - Perturbation
   
-- id: 10.1101/2022.07.18.500469
+- id: doi:10.1101/2022.07.18.500469
   image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
   tags:
     - Preprint
@@ -156,4 +156,4 @@
     - Menstrual Cycle
   extra-links:
     - type: preprint
-      link: https://www.biorxiv.org/content/10.1101/2022.07.18.500469v3
+      link: https://doi.org/10.1101/2022.07.18.500469

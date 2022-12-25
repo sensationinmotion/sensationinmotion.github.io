@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2022.12.24.521682
+  title: Reach corrections toward moving targets are faster than reach corrections
+    toward jumping targets
+  authors:
+  - Sasha Reschechtko
+  - Cynthiya Gnanaseelan
+  - J. Andrew Pruszynski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-24'
+  link: https://doi.org/grjp8r
+  tags:
+  - Upper Limb
+  - Reflexes
+  extra=links:
+  - type: preprint
+  - link: https://doi.org/10.1101/2022.12.24.521682
 - id: doi:10.1016/j.cub.2020.07.092
   title: Stretch reflexes
   authors:

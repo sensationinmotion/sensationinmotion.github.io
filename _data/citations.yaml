@@ -18,6 +18,9 @@
   - type: preprint
   - link: https://doi.org/10.1101/2022.12.24.521682
   image: images/jump_move.png
+  extra-links:
+  - type: preprint
+  - link: https://doi.org/10.1101/2022.12.24.521682
 - id: doi:10.1016/j.cub.2020.07.092
   title: Stretch reflexes
   authors:

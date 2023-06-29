@@ -20,23 +20,16 @@
   extra-links:
   - type: preprint
     link: https://doi.org/10.1101/2023.05.24.542099
-- id: doi:10.1101/2022.12.24.521682
-  title: Reach corrections toward moving targets are faster than reach corrections
-    toward jumping targets
-  authors:
-  - Sasha Reschechtko
-  - Cynthiya Gnanaseelan
-  - J. Andrew Pruszynski
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-12-24'
-  link: https://doi.org/grjp8r
+- id: https://doi:10.1016/j.neuroscience.2023.06.021
+  title: ''
+  authors: []
+  publisher: ''
+  date: '1900-01-01'
+  link: https://doi:10.1016/j.neuroscience.2023.06.021
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0306452223002919-gr1.jpg
   tags:
   - Upper Limb
   - Reflexes
-  extra=links:
-  - type: preprint
-  - link: https://doi.org/10.1101/2022.12.24.521682
-  image: images/jump_move.PNG
   extra-links:
   - type: preprint
     link: https://doi.org/10.1101/2022.12.24.521682

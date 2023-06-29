@@ -20,12 +20,16 @@
   extra-links:
   - type: preprint
     link: https://doi.org/10.1101/2023.05.24.542099
-- id: https://doi:10.1016/j.neuroscience.2023.06.021
-  title: ''
-  authors: []
-  publisher: ''
-  date: '1900-01-01'
-  link: https://doi:10.1016/j.neuroscience.2023.06.021
+- id: doi:10.1016/j.neuroscience.2023.06.021
+  title: Reach corrections toward moving objects are faster than reach corrections
+    toward instantaneously switching targets
+  authors:
+  - Sasha Reschechtko
+  - Cynthiya Gnanaseelan
+  - J. Andrew Pruszynski
+  publisher: Neuroscience
+  date: '2023-06-01'
+  link: https://doi.org/gsd386
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0306452223002919-gr1.jpg
   tags:
   - Upper Limb

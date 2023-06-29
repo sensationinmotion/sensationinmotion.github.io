@@ -7,7 +7,7 @@
     - type: preprint
       link: https://doi.org/10.1101/2023.05.24.542099
 
-- id: doi:10.1016/j.neuroscience.2023.06.021
+- id: https://doi:10.1016/j.neuroscience.2023.06.021
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0306452223002919-gr1.jpg
   tags:
     - Upper Limb

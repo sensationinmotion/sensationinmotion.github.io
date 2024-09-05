@@ -1,5 +1,13 @@
-- id: doi:10.1101/2023.05.24.542099
+- id: doi:10.1101/2024.09.03.610877
   image: https://www.biorxiv.org/content/biorxiv/early/2023/05/24/2023.05.24.542099/F1.large.jpg
+  tags:
+    - Upper Limb
+    - Fingers
+    - Cutaneous
+    - Tactile Detection
+
+- id: doi:10.7554/eLife.94485
+  image: https://iiif.elifesciences.org/lax:94485%2Felife-94485-fig1-v1.tif/full/,1500/0/default.jpg
   tags:
     - Upper Limb
     - Movement Sequences

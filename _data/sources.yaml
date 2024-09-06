@@ -1,5 +1,5 @@
 - id: doi:10.1101/2024.09.03.610877
-  image: https://github.com/sensationinmotion/sensationinmotion.github.io/blob/main/images/bump_2.jpg?raw=true
+  image: images/bump_2.jpg
   tags:
     - Fingers
     - Cutaneous
@@ -173,7 +173,7 @@
     - Perturbation
   
 - id: doi:10.14814/phy2.15693
-  image: https://physoc.onlinelibrary.wiley.com/cms/asset/206e71aa-5eec-470a-b8d1-83c628200bee/phy215693-fig-0001-m.png
+  image: https://physoc.onlinelibrary.wiley.com/cms/asset/51b7805b-89a5-4f9f-9dfd-5b90c1b859ee/phy215693-fig-0001-m.jpg
   tags:
     - Preprint
     - Balance

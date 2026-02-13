@@ -85,7 +85,7 @@ If you are interested in pursuing a M.S. degree and working in the lab, we may b
 
 #### Ph.D. Students
 
-At present, we are unable to support Ph.D. students. However, if you are a current Ph.D. at SDSU or another institution and interested the labs work, feel free to get in touch!
+At present, we are unable to support Ph.D. students. However, if you are a current Ph.D. at SDSU or another institution and interested the lab's work, feel free to get in touch!
 
 #### Postdoctoral Associates and Visiting Scholars
 

@@ -2,7 +2,7 @@
 name: Sophia Rockland
 image: images/member.jpg
 description: Research Assistant
-role: undergrad
+role: alumna
 aliases:
 
 links:

@@ -45,6 +45,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include section.html %}
 {% endcomment %}
 
+## Lab Alumni
+{:.center}
+#### Graduate students
+Reza Zeinal Zadeh
+#### Undergraduate students
+Sydnee Oshiro
+Cameron Patton
+Sophia Rockland
+Mais Sanoufi
+Mia Naranjo
+Wylianne Pangan
+
 ## Opportunities to work in the lab
 {:.center}
 #### Undergraduate students

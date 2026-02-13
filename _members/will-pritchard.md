@@ -2,7 +2,7 @@
 name: Will Pritchard
 image: images/member.jpg
 description: Graduate Student
-role: grad
+role: undergrad
 aliases:
 
 links:

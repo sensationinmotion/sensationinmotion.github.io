@@ -50,11 +50,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 #### Graduate students
 Reza Zeinal Zadeh
 #### Undergraduate students
+
 Sydnee Oshiro
+
 Cameron Patton
+
 Sophia Rockland
+
 Mais Sanoufi
+
 Mia Naranjo
+
 Wylianne Pangan
 
 ## Opportunities to work in the lab

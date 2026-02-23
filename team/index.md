@@ -51,17 +51,19 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Reza Zeinal Zadeh
 #### Undergraduate students
 
-Sydnee Oshiro
+Emily Reeder (2024-2025)
 
-Cameron Patton
+Cameron Patton (2023-2025)
 
-Sophia Rockland
+Sydnee Oshiro (2023-2024)
 
-Mais Sanoufi
+Sophia Rockland (2023-2024)
 
-Mia Naranjo
+Mia Naranjo (2023-2024)
 
-Wylianne Pangan
+Mais Sanoufi (2023)
+
+Wylianne Pangan (2022-2023)
 
 ## Opportunities to work in the lab
 {:.center}

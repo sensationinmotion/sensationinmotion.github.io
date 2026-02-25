@@ -1,7 +1,7 @@
 ---
 name: Helene Black
 image: images/member.jpg
-description: Graduate Student
+description: Undergraduate Student
 role: undergrad
 aliases:
 

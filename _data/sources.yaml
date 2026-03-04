@@ -1,9 +1,18 @@
-- id: doi:10.1101/2024.09.03.610877
+- id: doi.org/10.1123/mc.2024-0122
+  image: https://journals.humankinetics.com/coverimage?doc=%2Fjournals%2Fmcj%2Fmcj-overview.xml&width=200&type=webp
+  tags:
+    - Opinion
+    - Motor Control
+
+- id: doi.org/10.1152/jn.00414.2024
   image: images/bump_2.jpg
   tags:
     - Fingers
     - Cutaneous
     - Tactile Detection
+  extra-links:
+    - type: preprint
+      link: https://doi:10.1101/2024.09.03.610877
 
 - id: doi:10.7554/eLife.94485
   image: https://iiif.elifesciences.org/lax:94485%2Felife-94485-fig1-v1.tif/full/,1500/0/default.jpg
